@@ -31,10 +31,5 @@
 
 ---
 
-### 🧠 Most Used Languages
-```text
-Jupyter Notebook ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 28.07%
-Python           ▓▓▓▓▓▓▓▓░░░░░░░░  9.74%
-Verilog          ▓▓░░░░░░░░░░░░░░  1.58%
-C                ▓░░░░░░░░░░░░░░░  1.02%
-...
+### 🔥 Visitors
+![Visitor Count](https://profile-counter.glitch.me/ShahdElmahlawy/count.svg)
