@@ -22,3 +22,9 @@
 ✨ Fun fact: I love to ride bicycles 🚴‍♀️
 
 ---
+### 📊 Quick Overview
+![Freddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreddyAmgad&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyAmgad&layout=compact&theme=tokyonight)
+
+---
