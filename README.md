@@ -31,5 +31,7 @@
 
 ---
 
-### 🔥 Visitors
-![Visitor Count](https://profile-counter.glitch.me/ShahdElmahlawy/count.svg)
+### 🌍 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FreddyAmgad&label=Profile%20views&color=0e75b6&style=flat" alt="FreddyAmgad" /> 
+</p>
