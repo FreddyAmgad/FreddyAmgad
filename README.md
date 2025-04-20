@@ -30,8 +30,12 @@
 </div>
 
 ---
+### Visitors 👀
 
-### 🌍 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FreddyAmgad&label=Profile%20views&color=0e75b6&style=flat" alt="FreddyAmgad" /> 
+  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=eeaa88,cc3366,8833cc&height=100&section=footer"/>
 </p>
